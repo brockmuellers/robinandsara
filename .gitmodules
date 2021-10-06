@@ -1,0 +1,9 @@
+[submodule "docs/themes/hugo-initio"]
+	path = docs/themes/hugo-initio
+	url = https://github.com/miguelsimoni/hugo-initio.git
+[submodule "docs/themes/hugo-initio-2"]
+	path = docs/themes/hugo-initio-2
+	url = https://github.com/miguelsimoni/hugo-initio.git
+[submodule "docs/themes/hugo-initio-3"]
+	path = docs/themes/hugo-initio-3
+	url = https://github.com/miguelsimoni/hugo-initio.git
