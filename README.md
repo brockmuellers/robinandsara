@@ -5,6 +5,8 @@ Wedding website!
 https://self.brockmuellers.com/robinandsara/
 https://brockmuellers.github.io/robinandsara
 
+file:///home/sara/repos/robinandsara/docs/index.html
+
 ## TODO
 * Custom subdomain (robinandsara.brockmuellers.com, wedding.brockmuellers.com, ...?)
 * Fun pictures of us
@@ -57,6 +59,12 @@ Who knows!!! Some magic with google sheets.
 Inspiration:
 * https://www.zola.com/wedding-planning/website/designs
 * https://www.theknot.com/gs/wedding-websites/designs
+
+Some other sites on github:
+* https://github.com/menzenski/wedding-site
+* https://github.com/vittoriom/wedding-site
+
+Basic free HTML templates: https://html5up.net/
 
 ## Features that other sites have
 * Send invites and updates to all guests
